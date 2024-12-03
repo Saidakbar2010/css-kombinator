@@ -1,0 +1,13 @@
+div  p {
+    color: white;
+    background-color: aqua;
+}
+
+section + p{
+    background-color: red;
+    color: white;
+}
+section > p{
+    background-color: gold;
+    color: white;
+}
